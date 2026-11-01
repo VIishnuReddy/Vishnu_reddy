@@ -91,14 +91,17 @@ Designing a distributed job scheduling platform using Java and Spring Boot, expl
 
 ---
 
-## GitHub Statistics
+---
+
+## Coding Activity & Habits
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuReddy&show_icons=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=57606A&bg_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuReddy&layout=compact&hide_border=true&title_color=2E8B57&text_color=57606A&bg_color=ffffff" height="165" />
+  <img
+    src="./metrics.plugin.habits.svg"
+    alt="GitHub Coding Habits Dashboard"
+    width="100%"
+  />
 </p>
-
----
 
 ## Connect
 
