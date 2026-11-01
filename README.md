@@ -82,15 +82,12 @@ Areas of focus:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuReddy&show_icons=true&hide_border=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuReddy&layout=compact&hide_border=true&theme=default" height="160" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuReddy&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuReddy&theme=minimal&hide_border=true&area=true" width="100%" />
-</p>
-
----
 
 ## Connect
 
